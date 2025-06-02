@@ -1,0 +1,19 @@
+Version 2.0
+	layout optimized;
+	unused classes and attributes in html files deleted;
+	Blog - Masonry pages fixed;
+	the following pages added:
+		certificate
+		post-audio.html;
+		post-gallery.html;
+		post-video.html;
+		post-without-image.html;
+		event-single.html;
+		shop-list.html
+	events added to the Event calendar page
+
+Version 1.1
+	* Documentation updated
+
+Version 1.0
+    * Release
